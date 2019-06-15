@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9744CB722B553DF002F2B0D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9744CB622B553DF002F2B0D /* MapView.swift */; };
 		B9A2A18C22B509D00080C730 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A2A18B22B509D00080C730 /* CircleImage.swift */; };
 		B9F092A322B4304300E7E2D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F092A222B4304300E7E2D6 /* AppDelegate.swift */; };
 		B9F092A522B4304300E7E2D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F092A422B4304300E7E2D6 /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B9744CB622B553DF002F2B0D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		B9A2A18B22B509D00080C730 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		B9F0929F22B4304300E7E2D6 /* testSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9F092A222B4304300E7E2D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B9F092AD22B4304500E7E2D6 /* LaunchScreen.storyboard */,
 				B9F092B022B4304500E7E2D6 /* Info.plist */,
 				B9F092AA22B4304500E7E2D6 /* Preview Content */,
+				B9744CB622B553DF002F2B0D /* MapView.swift */,
 			);
 			path = testSwiftUI;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				B9F092A322B4304300E7E2D6 /* AppDelegate.swift in Sources */,
 				B9A2A18C22B509D00080C730 /* CircleImage.swift in Sources */,
+				B9744CB722B553DF002F2B0D /* MapView.swift in Sources */,
 				B9F092A522B4304300E7E2D6 /* SceneDelegate.swift in Sources */,
 				B9F092A722B4304300E7E2D6 /* ContentView.swift in Sources */,
 			);

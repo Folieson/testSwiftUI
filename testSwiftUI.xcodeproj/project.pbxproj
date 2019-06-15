@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9A2A18C22B509D00080C730 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A2A18B22B509D00080C730 /* CircleImage.swift */; };
 		B9F092A322B4304300E7E2D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F092A222B4304300E7E2D6 /* AppDelegate.swift */; };
 		B9F092A522B4304300E7E2D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F092A422B4304300E7E2D6 /* SceneDelegate.swift */; };
 		B9F092A722B4304300E7E2D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F092A622B4304300E7E2D6 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B9A2A18B22B509D00080C730 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		B9F0929F22B4304300E7E2D6 /* testSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9F092A222B4304300E7E2D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9F092A422B4304300E7E2D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B9F092A222B4304300E7E2D6 /* AppDelegate.swift */,
 				B9F092A422B4304300E7E2D6 /* SceneDelegate.swift */,
 				B9F092A622B4304300E7E2D6 /* ContentView.swift */,
+				B9A2A18B22B509D00080C730 /* CircleImage.swift */,
 				B9F092A822B4304500E7E2D6 /* Assets.xcassets */,
 				B9F092AD22B4304500E7E2D6 /* LaunchScreen.storyboard */,
 				B9F092B022B4304500E7E2D6 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9F092A322B4304300E7E2D6 /* AppDelegate.swift in Sources */,
+				B9A2A18C22B509D00080C730 /* CircleImage.swift in Sources */,
 				B9F092A522B4304300E7E2D6 /* SceneDelegate.swift in Sources */,
 				B9F092A722B4304300E7E2D6 /* ContentView.swift in Sources */,
 			);
